@@ -42,8 +42,8 @@ Head to the folder routes, open the file openai.js and configure your api key. S
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
-Mern File Manager Web App By [GAC DEV](https://geniusandcourage.com)
+Picture generator with openAI dalle2 By [GAC DEV](https://geniusandcourage.com)
 
 ## In Action
 
-![Mern File Manager Web App](https://hlwsdtech.com:8081/images/dallepicgen.jpg)
+![Picture generator with openAI dalle2](https://hlwsdtech.com:8081/images/dallepicgen.jpg)
