@@ -46,4 +46,4 @@ Picture generator with openAI dalle2 By [GAC DEV](https://geniusandcourage.com)
 
 ## In Action
 
-![Picture generator with openAI dalle2](https://hlwsdtech.com:8081/images/dallepicgen.jpg)
+![Picture generator with openAI dalle2](https://hlwsdtech.com:8081/images/dallepicgen.png)
